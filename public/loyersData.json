@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Mark A. Sigala",
+        "description": "Mark A. Sigala has been with Corsiglia McMahon & Allard, L.L.P. since its inception. Mr. Sigala prides himself with helping individuals who have been seriously injured and families who’s loved ones have been... ",
+        "img": "https://i.ibb.co/hc9VY8J/lowyer1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "James Otto Heiting",
+        "description": "The only past President of the State Bar of California ever elected from the Inland Empire, James Heiting handles civil litigation matters throughout California, recovering over $300 million for clients, dealing with...",
+        "img": "https://i.ibb.co/jhGsxTT/lowyer2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bradley M. Corsiglia",
+        "description": "Bradley M. Corsiglia has been honored by both his colleagues and major national publications for his outstanding work as one of the leading medical malpractice attorneys in California and in the United States.... ",
+        "img": "https://i.ibb.co/QKrsJ0p/lowyer3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Edward A. Smith",
+        "description": "My time in the military and especially my youth in the streets of New York has taught me much about dealing with difficult situations. I am grateful for that education and I employ it to help my clients",
+        "img": "https://i.ibb.co/1M2Swz9/lowyer4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chantel L. Fitting",
+        "description": "I stand up to insurance companies and have recovered millions for injury victims, many in jury trials. I am a passionate advocate that will fight for your rights and interests",
+        "img": "https://i.ibb.co/0MZ20vP/lowyer5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Joel Gary Selik",
+        "description": "Settlements, Arbitrations and Mediation. Experienced Malpractice Attorney (Lawyer, Medical, CPA, Real Estate), Debt & Judgment Collection. Personal Injury and other civil litigation experienced. No Frivolous Cases, Ever.",
+        "img": "https://i.ibb.co/6P6ydFN/lowyer6.png"
+    },
+    {
+        "id": 7,
+        "name": "Eric Ratinoff",
+        "description": "While I have very successfully tried and settled many cases over the years, I take nothing for granted. For that reason, I work very hard harder than most. I do it because I love what I do and I am constantly striving to improve.",
+        "img": "https://i.ibb.co/jgsLB1R/lowyer7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Paul J Molinaro M.D., J.D.",
+        "description": "The law firm of Fransen & Molinaro, LLP is located in Corona, California but serves the entire State of California. Whether it’s a plaintiff or defense matter, we pride ourselves on representing California’s individuals and small business in matters involving the following.",
+        "img": "https://i.ibb.co/0sxJYJG/lowyer8.jpg"
+    }
+]
