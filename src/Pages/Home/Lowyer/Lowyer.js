@@ -14,7 +14,7 @@ const Lowyer = ({lowyer}) => {
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
                     <p className="card-text">{description.substr(0, 90)}</p>
-                    <button onClick={()=> navigateServiceDetails(id)}>FreeConsultation</button>
+                    <button className='bg-primary' onClick={()=> navigateServiceDetails(id)}>FreeConsultation</button>
                 </div>
             </div>
         </div>

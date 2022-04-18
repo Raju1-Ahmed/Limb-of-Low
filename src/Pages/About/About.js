@@ -5,7 +5,7 @@ const About = () => {
         <div id='home' className='w-50 mt-5 mb-5 mx-auto d-block'>
             <div className='mx-auto d-block text-center'>
             <img className='w-50'  src={aboutimg} alt="" />
-            <p className='text-info'><span>MD: Robius Sani Raju</span></p>
+            <p className='text-primary '><span>MD: Robius Sani Raju</span></p>
             </div>
             <div className=' text-muted text-center'>
                 <h2>international lawyers consultation</h2>
