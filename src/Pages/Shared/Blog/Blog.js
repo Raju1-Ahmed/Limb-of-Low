@@ -4,26 +4,24 @@ const Blog = () => {
     return (
         <div className='col-lg-12 col-md-12 mt-5'>
             <h2 style={{fontSize:"20px"}} className='w-50 mx-auto d-block text-muted text-center'>
-                <span className='text-danger text-small '>Difference between authorization and authentication: </span>
-                সহজভাবে বলতে গেলে, প্রমাণীকরণ হল কেউ কে তা যাচাই করার প্রক্রিয়া, যেখানে অনুমোদন হল ব্যবহারকারীর কোন নির্দিষ্ট অ্যাপ্লিকেশন, ফাইল এবং ডেটাতে অ্যাক্সেস রয়েছে তা যাচাই করার প্রক্রিয়া। পরিস্থিতি এমন একটি এয়ারলাইনের মতো যা নির্ধারণ করতে হবে কোন লোক বোর্ডে আসতে পারবে।</h2>
+                <span className='text-danger text-small'>Difference between authorization and authentication: </span><br/>
+                সহজভাবে বলতে গেলে, authorization হল কেউ কে তা যাচাই করার প্রক্রিয়া, যেখানে অনুমোদন হল ব্যবহারকারীর কোন নির্দিষ্ট অ্যাপ্লিকেশন, ফাইল এবং ডেটাতে অ্যাক্সেস রয়েছে তা যাচাই করার প্রক্রিয়া। পরিস্থিতি এমন একটি এয়ারলাইনের মতো যা নির্ধারণ করতে হবে কোন লোক বোর্ডে আসতে পারবে।</h2>
 
             <br />
             <br />
 
             <h2 style={{fontSize:"20px"}} className='w-50 mx-auto d-block text-muted text-center'>
-                <span className='text-danger '>Why are you using firebase? What other options do you have to implement authentication?
-
-                </span>
-                Firebase প্রমাণীকরণ ব্যাকএন্ড পরিষেবা, সহজে ব্যবহারযোগ্য SDK, এবং আপনার অ্যাপে ব্যবহারকারীদের প্রমাণীকরণের জন্য তৈরি UI লাইব্রেরি প্রদান করে। এটি পাসওয়ার্ড, ফোন নম্বর, Google, Facebook এবং Twitter এর মতো জনপ্রিয় ফেডারেটেড পরিচয় প্রদানকারী এবং আরও অনেক কিছু ব্যবহার করে প্রমাণীকরণ সমর্থন করে।
+                <span className='text-danger '>Why are you using firebase? What other options do you have to implement authentication: </span><br/>
+                Firebase authorization ব্যাকএন্ড পরিষেবা, সহজে ব্যবহারযোগ্য SDK, এবং আপনার অ্যাপে ব্যবহারকারীদের প্রমাণীকরণের জন্য তৈরি UI লাইব্রেরি প্রদান করে। এটি পাসওয়ার্ড, ফোন নম্বর, Google, Facebook এবং Twitter এর মতো জনপ্রিয় ফেডারেটেড পরিচয় প্রদানকারী এবং আরও অনেক কিছু ব্যবহার করে authorization সমর্থন করে।
 
                 এছাড়াও রয়েছে
-                গিটহাব এন্টারপ্রাইজ সার্ভারে প্রমাণীকরণ করে আপনার অ্যাকাউন্টের সংস্থানগুলি নিরাপদে অ্যাক্সেস করতে পারেন</h2>
+                গিটহাব এন্টারপ্রাইজ সার্ভারে authorization করে আপনার অ্যাকাউন্টের সংস্থানগুলি নিরাপদে অ্যাক্সেস করতে পারেন</h2>
                 <br />
             <br />
             <h2 style={{fontSize:"20px"}} className='w-50 mx-auto d-block text-muted text-center'>
-                <span className='text-danger '>What other services does firebase provide other than authentication
+                <span className='text-danger '>What other services does firebase provide other than authentication:
 
-                </span>
+                </span><br/>
                 Firebase Auth বিকল্প
                 ফায়ারবেস বিকল্প - শীর্ষ 10+ প্রতিযোগী
                 পার্স - ওপেন সোর্স ব্যাকএন্ড প্ল্যাটফর্ম;
